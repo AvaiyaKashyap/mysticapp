@@ -40,6 +40,9 @@ dependencies:
   aura_box: ^1.0.2
   wave: ^0.2.2
   tab_container: ^2.0.0
+  grain: ^0.0.1
+  google_fonts: ^6.1.0
+  sizer: ^2.0.15
 
 dev_dependencies:
   flutter_test:
