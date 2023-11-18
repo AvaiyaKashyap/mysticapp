@@ -69,6 +69,7 @@ class _WelcomePageState extends State<WelcomePage> {
                                     fontWeight: FontWeight.w700,
                                     color: Color(0xff3B5060)
                                   )),),
+                                  //dessc
                                   SizedBox(height: 1.h,),
                                   Text("Unlock the Power of Mobile Apps with Our Expert Development Service",style: GoogleFonts.duruSans(textStyle: TextStyle(
                                     fontSize: 4.sp,
