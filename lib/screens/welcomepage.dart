@@ -54,6 +54,8 @@ class _WelcomePageState extends State<WelcomePage> {
                           //     offset: Offset(0, 3), // changes position of shadow
                           //   ),
                           // ],
+
+                          
                                 image: DecorationImage(image: AssetImage('assets/logo1.png'))
                               ),
                             ),
